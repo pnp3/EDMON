@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/EDMON/static/css/main.e1eb6740.css",
+    "main.js": "/EDMON/static/js/main.ff979ddf.js",
+    "static/js/453.d48db794.chunk.js": "/EDMON/static/js/453.d48db794.chunk.js",
+    "static/media/NewHeroBanner.png": "/EDMON/static/media/NewHeroBanner.958dc876d5657959259c.png",
+    "static/media/School logo.png": "/EDMON/static/media/School logo.e6d619e3e77b7d9821aa.png",
+    "index.html": "/EDMON/index.html",
+    "main.e1eb6740.css.map": "/EDMON/static/css/main.e1eb6740.css.map",
+    "main.ff979ddf.js.map": "/EDMON/static/js/main.ff979ddf.js.map",
+    "453.d48db794.chunk.js.map": "/EDMON/static/js/453.d48db794.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1eb6740.css",
+    "static/js/main.ff979ddf.js"
+  ]
+}
